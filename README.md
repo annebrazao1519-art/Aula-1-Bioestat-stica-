@@ -1,6 +1,6 @@
-# Modelos de Variáveis Aleatórias Aplicados à Biologia
+## Modelos de Variáveis Aleatórias Aplicados à Biologia
 
-**Curso:** Licenciatura / Bacharelado em Ciências Biológicas  
+**Curso:** Ciências Biológicas  
 **Instituição:** Escola Superior de Agricultura "Luiz de Queiroz" — Universidade de São Paulo (USP / ESALQ)  
 **Disciplina:** Probabilidade e Estatística em Biologia  
 **Docente:** Prof. Dr. Cristian Marcelo Villegas Lobos  
