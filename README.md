@@ -22,17 +22,6 @@ Este repositório contém a resolução da **Tarefa 13 — Distribuições de Pr
 
 ---
 
-## 👥 Identificação dos Integrantes
-
-| Nome do Integrante | RA / Matrícula | E-mail |
-| :--- | :--- | :--- |
-| [Nome do Integrante 1] | [Número] | [email@exemplo.com] |
-| [Nome do Integrante 2] | [Número] | [email@exemplo.com] |
-| [Nome do Integrante 3] | [Número] | [email@exemplo.com] |
-| [Nome do Integrante 4] | [Número] | [email@exemplo.com] |
-
----
-
 ## Pergunta Biológica Investigável
 
 > **Pergunta Guia:** *"A variabilidade da largura da sépala (`sepal_width`) difere significativamente entre a espécie Iris setosa e a espécie Iris versicolor?"*
